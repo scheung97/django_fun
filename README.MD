@@ -6,3 +6,5 @@ while in django_fun folder type these commands:
   <li>cd beepboopproject</li> 
   <li>python3 manage.py runserver</li> 
 </ul> 
+
+copy and paste the ip address that appears into a browser of your choosing
